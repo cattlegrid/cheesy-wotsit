@@ -1,6 +1,0 @@
-version: "2.1"
-
-services:
-  cheesy-wotsit:
-    image: chrisys/cheesy-wotsit:latest
-    privileged: true
